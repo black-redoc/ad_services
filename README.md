@@ -45,6 +45,8 @@ Login with
 - Database: postgres
 ```
 
+I have let intentionally the .env file with the url connections for the database and the redis broker, for easy run.
+
 ## Structure
 
 - campaigns table
